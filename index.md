@@ -1,22 +1,10 @@
-You can use markdown to add content to you webpage.
+# Welcome
+*And move along.*
 
-Here are some highlights of markdown syntax.
+## There's really nothing to see here
+I'm just using some markdown.
 
-# Heading 1
-## Heading 2
-### Heading 3
+[Here's the markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-**bold**
-*italics*
-
-1. List Item 1
-2. List Item 2
-
-* Bullet 1
-* Bullet 2
-* Bullet 3
-
-[This is a link](https://google.com)
-
-Here is an image. Don't forget some alt text for better accessibility!
+Octocat is super cute. Gonna leave this here.
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
